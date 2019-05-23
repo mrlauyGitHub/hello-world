@@ -12,5 +12,4 @@ $python3
 >>> print(text)
 
 Hello-Humans!
-
 GET!
